@@ -62,5 +62,5 @@ Design ER Diagram for Employee Management System**
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/aarti-sven-janorschke-72a1362ba/
+[linkedin]: https://www.linkedin.com/in/sven-janorschke-72a1362ba/
 
